@@ -1,0 +1,12 @@
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    border: 3px dotted;
+    background-color: yellow;
+}
+input{
+    background-color: blue;
+    border: 0px solid;
+    padding: 12px 70px;
+}
